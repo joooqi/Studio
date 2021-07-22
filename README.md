@@ -1,2 +1,1 @@
-# Studio
-Studio
+# This is a demo
